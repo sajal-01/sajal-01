@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/sajalkumar"><img src="https://github.com/sajal-01/sajal-01/blob/main/devcard.svg" width="400" alt="sajalKumar's Dev Card"/></a>
+<a href="https://app.daily.dev/sajalkumar"><img src="https://api.daily.dev/devcards/v2/SVpgi0FV78XOaRzudwVOt.png?type=default&r=pwb" width="356" alt="Sajal Kumar's Dev Card"/></a>
